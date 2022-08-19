@@ -61,7 +61,7 @@ The following video shows the responsiveness of **College Fest**
 https://user-images.githubusercontent.com/37581959/160352115-3526f81c-85da-4190-815a-ca4b473f6d08.mp4
 
 
-You can also view all the screenshots of the project in [Screenshots of College Fest Spring Boot Assignment.pdf]
+You can also view all the screenshots of the project in [Screenshots of College Fest Spring Boot Assignment.pdf] (https://github.com/SameerPhD/sameerGajghate_SpringRestSolution/blob/main/Screenshots%20of%20College%20Fest%20Spring%20Boot%20Assignment.pdf "Screenshots of College Fest Spring Boot Assignment.pdf")
 
 ##  Assignment submitted by:
 

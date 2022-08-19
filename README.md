@@ -26,7 +26,7 @@ This Spring Boot application, after running it, can be accessed at the URL http:
 ###  Database configuration
 
 - The College Fest Management uses the MySQL database. It uses the default port for MySQL i.e. `3306` and the Database name is `collegefest`
-- To create the database use the [CollegeFestScript.sql](https://github.com/SameerPhD/SameerGajghateSpringRestAssignment/blob/main/CollegeFestScript.sql") script
+- To create the database use the [CollegeFestScript.sql](https://github.com/SameerPhD/sameerGajghate_SpringRestSolution/blob/main/CollegeFestScript.sql "CollegeFestScript.sql") script
 - Change the **username** and **password** in the [application.properties](https://github.com/shubhamshukla7794/ShubhamKShukla_Lab-SpringAssignmentSolution/blob/main/CollegeFest/src/main/resources/application.properties "application.properties") to match your **username** and **password** of MySQL
 
 ### Account Details
